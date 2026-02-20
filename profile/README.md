@@ -22,14 +22,6 @@ Our agents execute, learn, and iterate — not just assist.
 
 ---
 
-## GitHub Organization
-
-Explore our repositories and shared resources:
-
-https://github.com/FutureIntelligenceLab/.github/
-
----
-
 ## Collaboration
 
 We partner with semiconductor and system companies to accelerate tape-out cycles and reduce verification bottlenecks.
